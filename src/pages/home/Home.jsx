@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-
 import Possibility from "../../container/possibility/Possibility";
 import { v4 as uuid } from "uuid";
 import { UpdateRecord, DeleteConfirm, ReadData, Header } from "../../container";
