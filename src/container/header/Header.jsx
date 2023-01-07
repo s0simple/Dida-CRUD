@@ -7,7 +7,7 @@ const Header = () => {
       <nav class="bg-white w-full flex relative shadow justify-between items-center px-8 h-20">
         <div class="inline-flex">
           <p className="mx-5 text-[#00153B] text-[30px] leading-[63px] font-bold">
-            DIDA{" "}
+            DiDa{" "}
             <span className="text-slate-500 text-[20px] leading-[33px]">
               CRUD APP
             </span>
